@@ -36,8 +36,8 @@ Radiant┤
 İmmo 2 ┤                    
 İmmo 1 ┤                  
 Ascndt ┤               
-Diamond┤                         ╭───                 
-Platin ┤            ╭────────────╯                           
+Diamond┤                      ╭───                 
+Platin ┤            ╭─────────╯                           
 Gold   ┼        ╭───╯                                       
 Silver ┤   ╭────╯      
 Bronze ┤  ╭╯      
