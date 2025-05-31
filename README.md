@@ -3,11 +3,15 @@
   
 <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/life_balance.gif" alt="side Image" align="right" width="200" height="auto" />
 <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" align="right" width="150" height="auto"/> </a>
-  
+  Coder and Gamer ATHLETE
   - 🔭 I’m student in english prepare class
   - 🌱 I’m currently learning inglish and phyton codes
   - 😄 Pronouns: He / Him
   - ⚡ Fun Hobies: Playing FOOTBALL and FİTNESS some VALORANT
+  - * 🌍  I'm based in İSTANBUL
+  * 🖥️  See my RANK [Tracker.gg CL Mayfi](http://tracker.gg/valorant/profile/riot/CL%20Mayf%C4%B0%236532/performance?platform=pc&playlist=competitive)
+  * 🧠  I'm learning Phyton Codes  I'm open to collaborating on GOAL İS BEİNG RADİANT
+  !!!  I'm secretly a busıness man and I AM RICH man dont tell enyone shhhh
   
   #### 👨🏻‍💻 Languages and Tools <br />
 
@@ -19,8 +23,7 @@
   
   [![Stats](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=sciencepal&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://github.com/sciencepal/sciencepal/blob/master/assets/saved.gif" width="195">
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=sciencepal&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
+
 
 
   ```
